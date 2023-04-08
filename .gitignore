@@ -57,3 +57,6 @@ docker-compose.override.yml
 
 # PHPStorm
 .idea
+
+# Ignore database data
+pg-data
