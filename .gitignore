@@ -50,3 +50,7 @@
 
 # Embedded web-server pid file
 /.web-server-pid
+
+# Ignore docker-compose.yml
+docker-compose.yml
+docker-compose.override.yml
